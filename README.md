@@ -19,6 +19,6 @@ I'm a passionate developer with a keen interest in back-end development, artific
 
 ## Get in Touch
 - **LinkedIn:** [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/xaviermerinomino/))
-- **Email:** [your-email@example.com](mailto:xavier.merino.m@hotmail.com)
+- **Email:** [xavier.merino.m@hotmail.com](mailto:xavier.merino.m@hotmail.com)
 
 Thanks for stopping by! 😊
