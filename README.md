@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Xavier Merino 👋
 
-<!--
-**XavierMerinoM/XavierMerinoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with a keen interest in back-end development, artificial intelligence, embedded systems, and continuous learning. I strive to write clean, efficient, and maintainable code. When I'm not coding, you can find me exploring new technologies or contributing to the developer community.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, C++, Visual Basic
+- **Machine Learning Libraries:** scikit-learn, openai
+- **Tools:** Git, Visual Studio Code (VS Code), Jupyter Notebook
+- **Databases:** SQL Server, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[Python-Projects]([link-to-project](https://github.com/XavierMerinoM/Python-Projects)):** Different kind of Python projects showcasing my skills.
+- **[AiBT_bot]([link-to-project](https://github.com/XavierMerinoM/AiBT_bot)):** Prototype of Telegram bot to generate exercises for a TOEFL exam.
+- **[Machine_Learning]([link-to-project](https://github.com/XavierMerinoM/Machine_Learning)):** Different machine learnng projects.
+
+## GitHub Stats
+![Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XavierMerinoM&show_icons=true&theme=radical)
+
+## Get in Touch
+- **LinkedIn:** [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/xaviermerinomino/))
+- **Email:** [your-email@example.com](mailto:xavier.merino.m@hotmail.com)
+
+Thanks for stopping by! 😊
