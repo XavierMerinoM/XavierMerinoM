@@ -18,7 +18,7 @@ I'm a passionate developer with a keen interest in back-end development, artific
 ![Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XavierMerinoM&show_icons=true&theme=radical)
 
 ## Get in Touch
-- **LinkedIn:** [Your LinkedIn Profile]([link-to-linkedin](https://www.linkedin.com/in/xaviermerinomino/))
+- **LinkedIn:** [Xavier Merino Miño]([link-to-linkedin](https://www.linkedin.com/in/xaviermerinomino/))
 - **Email:** [xavier.merino.m@hotmail.com](mailto:xavier.merino.m@hotmail.com)
 
 Thanks for stopping by! 😊
