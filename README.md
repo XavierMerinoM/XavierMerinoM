@@ -14,9 +14,6 @@ I'm a passionate developer with a keen interest in back-end development, artific
 - **[AiBT_bot](https://github.com/XavierMerinoM/AiBT_bot):** Prototype of Telegram bot to generate exercises for a TOEFL exam.
 - **[Machine_Learning](https://github.com/XavierMerinoM/Machine_Learning):** Different machine learnng projects.
 
-## GitHub Stats
-![Xavier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XavierMerinoM&show_icons=true&theme=radical)
-
 ## Get in Touch
 - **LinkedIn:** [Xavier Merino Miño](https://www.linkedin.com/in/xaviermerinomino/)
 - **Email:** [xavier.merino.m@hotmail.com](mailto:xavier.merino.m@hotmail.com)
