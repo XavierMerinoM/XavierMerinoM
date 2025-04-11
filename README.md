@@ -5,7 +5,7 @@ I'm a passionate developer with a keen interest in back-end development, artific
 
 ## Skills
 - **Languages:** Python, C++
-- **Machine Learning Libraries:** scikit-learn, openai
+- **Machine Learning Libraries:** scikit-learn, PyTorch, openai
 - **Tools:** Git, Visual Studio Code (VS Code), Jupyter Notebook
 - **Databases:** SQL Server, MySQL
 
