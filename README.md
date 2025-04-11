@@ -12,7 +12,7 @@ I'm a passionate developer with a keen interest in back-end development, artific
 ## Projects
 - **[Python-Projects](https://github.com/XavierMerinoM/Python-Projects):** Different kind of Python projects showcasing my skills.
 - **[AiBT_bot](https://github.com/XavierMerinoM/AiBT_bot):** Prototype of Telegram bot to generate exercises for a TOEFL exam.
-- **[Machine_Learning](https://github.com/XavierMerinoM/Machine_Learning):** Different machine learnng projects.
+- **[Machine_Learning](https://github.com/XavierMerinoM/Machine_Learning):** Different kind of projects applying traditional machine learnng projects.
 
 ## Get in Touch
 - **LinkedIn:** [Xavier Merino Miño](https://www.linkedin.com/in/xaviermerinomino/)
