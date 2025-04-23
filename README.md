@@ -10,10 +10,11 @@ I'm a passionate developer with a keen interest in back-end development, artific
 - **Databases:** SQL Server, MySQL
 
 ## Projects
-- **[Python-Projects](https://github.com/XavierMerinoM/Python-Projects):** Different kind of Python projects showcasing my skills.
+- **[Python-Projects](https://github.com/XavierMerinoM/Python-Projects):** Different kinds of Python projects showcasing my skills.
 - **[AiBT_bot](https://github.com/XavierMerinoM/AiBT_bot):** Prototype of a Telegram bot to generate exercises for a TOEFL exam.
 - **[Machine_Learning](https://github.com/XavierMerinoM/Machine_Learning):** Different kinds of projects applying traditional machine learning algorithms.
 - **[Deep_Learning](https://github.com/XavierMerinoM/Deep_Learning):** Different kinds of projects applying deep learning algorithms.
+- **[Natural_Language_Processing](https://github.com/XavierMerinoM/Natural_Language_Processing):** Different kinds of projects applying Natural Language Processing and LLM models.
 
 ## Get in Touch
 - **LinkedIn:** [Xavier Merino Miño](https://www.linkedin.com/in/xaviermerinomino/)
