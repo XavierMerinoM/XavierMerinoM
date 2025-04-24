@@ -5,10 +5,17 @@ I'm a passionate developer with a keen interest in back-end development, artific
 
 ## Skills
 - **Languages:** Python, C++
-- **Machine Learning Libraries:** Scikit-learn, PyTorch, OpenAI
-- **Natural Language Processing:** spaCy
 - **Tools:** Git, Visual Studio Code (VS Code), Jupyter Notebook
 - **Databases:** SQL Server, MySQL
+
+## Libraries
+- **Math:** NumPy
+- **Data:** Pandas
+- **Machine Learning:** Scikit-learn
+- **Deep Learning:** PyTorch
+- **Visualizations:** Matplotlib, WordCloud, PIL
+- **Natural Language Processing:** spaCy, Transformers, Gensim, OpenAI
+
 
 ## Projects
 - **[Python-Projects](https://github.com/XavierMerinoM/Python-Projects):** Different kinds of Python projects showcasing my skills.
