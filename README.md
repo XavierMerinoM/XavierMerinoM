@@ -5,7 +5,7 @@ I'm a passionate developer with a keen interest in back-end development, artific
 
 ## Skills
 - **Languages:** Python, C++
-- **Tools:** Git, Visual Studio Code (VS Code), Jupyter Notebook
+- **Tools:** Git, Visual Studio Code (VS Code), Jupyter Notebook, Power BI
 - **Databases:** SQL Server, MySQL
 
 ## Libraries
@@ -13,16 +13,17 @@ I'm a passionate developer with a keen interest in back-end development, artific
 - **Data:** Pandas
 - **Machine Learning:** Scikit-learn
 - **Deep Learning:** PyTorch
-- **Visualizations:** Matplotlib, WordCloud, PIL
+- **Visualizations:** Matplotlib, WordCloud, PIL, Streamlit
 - **Natural Language Processing:** spaCy, Transformers, Gensim, OpenAI
 
 
 ## Projects
 - **[Python-Projects](https://github.com/XavierMerinoM/Python-Projects):** Different kinds of Python projects showcasing my skills.
 - **[AiBT_bot](https://github.com/XavierMerinoM/AiBT_bot):** Prototype of a Telegram bot to generate exercises for a TOEFL exam.
-- **[Machine_Learning](https://github.com/XavierMerinoM/Machine_Learning):** Different kinds of projects applying traditional machine learning algorithms.
-- **[Deep_Learning](https://github.com/XavierMerinoM/Deep_Learning):** Different kinds of projects applying deep learning algorithms.
-- **[Natural_Language_Processing](https://github.com/XavierMerinoM/Natural_Language_Processing):** Different kinds of projects applying Natural Language Processing and LLM models.
+- **[Machine_Learning](https://github.com/XavierMerinoM/Machine_Learning):** Projects focused on traditional machine learning algorithms.
+- **[Deep_Learning](https://github.com/XavierMerinoM/Deep_Learning):** Next-step projects implementing deep learning algorithms.
+- **[Natural_Language_Processing](https://github.com/XavierMerinoM/Natural_Language_Processing):** Natural Language Processing and LLM models projects using different approaches.
+- **[Data_Analysis](https://github.com/XavierMerinoM/Data_Analysis):** Visual projects showcasing analytics and artwork skills over distinct datasets.
 
 ## Get in Touch
 - **LinkedIn:** [Xavier Merino Miño](https://www.linkedin.com/in/xaviermerinomino/)
