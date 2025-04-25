@@ -6,7 +6,7 @@ I'm a passionate developer with a keen interest in back-end development, artific
 ## Skills
 - **Languages:** Python, C++
 - **Tools:** Git, Visual Studio Code (VS Code), Jupyter Notebook, Power BI
-- **Databases:** SQL Server, MySQL
+- **Databases:** SQL, SQL Server, MySQL
 
 ## Libraries
 - **Math:** NumPy
