@@ -12,9 +12,9 @@ I'm a passionate developer with a keen interest in back-end development, artific
 - **Math:** NumPy
 - **Data:** Pandas
 - **Machine Learning:** Scikit-learn
-- **Deep Learning:** PyTorch
+- **Deep Learning:** PyTorch, TensorFlow, Transformers
 - **Visualizations:** Matplotlib, WordCloud, PIL, Streamlit
-- **Natural Language Processing:** spaCy, Transformers, Gensim, OpenAI
+- **Natural Language Processing:** spaCy, Gensim, OpenAI, HuggingFace
 
 
 ## Projects
